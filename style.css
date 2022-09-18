@@ -1,0 +1,16 @@
+.container{
+    text-align:center;
+}
+h1{
+    text-align:center;
+    font-size:100px;
+    font-weight:100;
+    font-family: sans-serif;
+}
+#inputfield, button{
+    font-size:50px;
+}
+.para{
+    font-size:40px;
+    font-family: sans-serif;
+}
